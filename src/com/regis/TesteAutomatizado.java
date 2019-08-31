@@ -12,7 +12,7 @@ public class TesteAutomatizado {
 		
 		WebDriver driver = new ChromeDriver();
 		
-		driver.get("file:///C:/Users/Admin/Desktop/index.html"); // Abre a URL
+		driver.get("http://regisyamamoto.com.br/selenium/"); // Abre a URL
 		Thread.sleep(2000);
 		
 		// text
